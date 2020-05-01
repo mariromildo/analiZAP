@@ -1,4 +1,4 @@
-# analiZAP (WIP)
+# analiZAP
 Análise de conversas do Whatsapp
 
 ## Introdução
